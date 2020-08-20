@@ -13,3 +13,7 @@ Ogólny schemat wygląda następująco:
 * Powtarzamy procedurę.
 
 ![Model Sznajdów](Model_Sznajdow.png)
+
+## Technologie:
+* **C# 8.0**,
+* **.NET WinForms**.
